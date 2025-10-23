@@ -65,6 +65,9 @@ coverage.xml
 instance/
 .webassets-cache
 
+# Jupyter
+*.joblib
+
 # Scrapy:
 .scrapy
 
